@@ -1,0 +1,6 @@
+c:\trash\LoggerLibrary\LoggerLibrary\bin\Debug\LoggerLibrary.exe.config
+c:\trash\LoggerLibrary\LoggerLibrary\bin\Debug\LoggerLibrary.exe
+c:\trash\LoggerLibrary\LoggerLibrary\bin\Debug\LoggerLibrary.pdb
+c:\trash\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.csprojResolveAssemblyReference.cache
+c:\trash\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.exe
+c:\trash\LoggerLibrary\LoggerLibrary\obj\Debug\LoggerLibrary.pdb

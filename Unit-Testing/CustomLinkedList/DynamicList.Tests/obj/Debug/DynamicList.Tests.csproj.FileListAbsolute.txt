@@ -1,0 +1,8 @@
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\bin\Debug\DynamicList.Tests.dll
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\bin\Debug\DynamicList.Tests.pdb
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\bin\Debug\CustomLinkedList.dll
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\bin\Debug\CustomLinkedList.pdb
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\obj\Debug\DynamicList.Tests.csprojResolveAssemblyReference.cache
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\obj\Debug\DynamicList.Tests.dll
+C:\Users\msmilkoff\Desktop\11. Unit-Testing-Homework\CustomLinkedList\DynamicList.Tests\obj\Debug\DynamicList.Tests.pdb
